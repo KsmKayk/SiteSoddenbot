@@ -1,0 +1,41 @@
+body {
+  background-image: url("./BG.png");
+}
+
+#site-display {
+}
+
+#botimg {
+  position: absolute;
+  left: 560;
+  top: 155;
+}
+#lineimg {
+  position: absolute;
+  left: 462;
+  top: 315;
+}
+
+#nameimg {
+  position: absolute;
+  left: 415;
+  top: 404;
+}
+
+#desc {
+  position: absolute;
+  left: 475;
+  top: 411;
+
+  width: 330px;
+  height: 141px;
+
+  font-family: Amita;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 47px;
+  text-align: center;
+
+  color: #ffffff;
+}
